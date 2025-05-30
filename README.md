@@ -2,12 +2,11 @@
 
 👋 Hi, I’m **Ashmita** – QA Test Lead and  Senior QA Automation Engineer with over 10 years of experience designing robust automation frameworks, leading testing strategies, and ensuring high-quality software delivery. This repository showcases a curated set of projects that reflect my expertise in UI and API automation, performance testing, CI/CD pipeline integration, and scalable framework design.
 
-## 📌 About Me
+## 📌 Focus areas
 
-I specialize in:
-- Building end-to-end automation solutions from scratch
-- Developing modular, reusable frameworks
-- Leading test strategy for Agile/DevOps teams
+- Automation from zero to CI-ready
+- Clean, component-based test frameworks
+- Strategic QA planning and leadership
 - Driving shift-left testing and QA best practices
 
 ## 🧰 Tech Stack & Tools
