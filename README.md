@@ -72,9 +72,9 @@ A curated collection of real-world **QA leadership assets** used to manage and s
 - 💻 [GitHub](https://github.com/ashmita-qalead)
 
 ## ⭐ Bonus: Things I Take Pride In
-•	Turning flaky tests into solid, reliable pipelines 🧪
-•	Collaborating with devs to build testability in from day one 🤝
-•	Making bug reports so good, even devs thank me 😄
-•	Believing that "Quality is everyone's responsibility" 💡
+- Turning flaky tests into solid, reliable pipelines 🧪
+- Collaborating with devs to build testability in from day one 🤝
+- Making bug reports so good, even stakeholders thank me 😄
+- Believing that "Quality is everyone's responsibility" 💡
 
 Thank you for visiting! Feel free to explore, clone, or fork these projects.
