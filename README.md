@@ -27,7 +27,7 @@ I specialize in:
 ### 1. **Hybrid UI Automation Framework**
 A robust **Selenium + TestNG hybrid framework** designed using Page Object Model (POM) principles. Includes:
 - Cross-browser support (Chrome, Firefox)
-- Reusable utility classes (e.g., screenshot handling, data providers)
+- Reusable utility classes (e.g., screenshot handling, data providers, extent report)
 - Integrated **ExtentReports** for rich test visualization
 - **Jenkins** integration for continuous testing and scheduling
 
@@ -71,5 +71,11 @@ A curated collection of real-world **QA leadership assets** used to manage and s
 - 📧 Email: ashmitam70@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/ashmitam70)
 - 💻 [GitHub](https://github.com/ashmita-qalead)
+
+## ⭐ Bonus: Things I Take Pride In
+•	Turning flaky tests into solid, reliable pipelines 🧪
+•	Collaborating with devs to build testability in from day one 🤝
+•	Making bug reports so good, even devs thank me 😄
+•	Believing that "Quality is everyone's responsibility" 💡
 
 Thank you for visiting! Feel free to explore, clone, or fork these projects.
